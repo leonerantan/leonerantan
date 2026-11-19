@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Leon Tan
 
-<!--
-**leonerantan/leonerantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m pursuing a B.S. in Information Technology at George Mason University, concentrating in Cybersecurity, with expected graduation in 2027. I’m transitioning from hospitality leadership into entry-level IT, with a long-term goal of hands-on cybersecurity work.
 
-Here are some ideas to get you started:
+## What I’m learning and practicing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Networking: TCP/IP, subnetting, routing, VLANs, and Cisco Packet Tracer
+- Network security: Wireshark, packet analysis, TLS, and encryption fundamentals
+- Systems: Windows 11, macOS, Linux, and command-line tools
+- Programming: Python, JavaScript, SQL, HTML, and CSS
+
+## Projects
+
+- [Personal website](https://github.com/leonerantan/leonerantan.github.io): a basic HTML/CSS site with an IT ethics page.
+- Personal budgeting web application: in development using JavaScript, Node.js, and Vite; no public repository linked yet.
+- Academic labs: networking, network security, operating systems, and relational databases. Public write-ups are planned.
+
+My professional background includes team training, customer communication, task prioritization, and accurate records management.
+
+[LinkedIn](https://www.linkedin.com/in/leon-tan-71602b3aa/)
